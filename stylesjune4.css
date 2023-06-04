@@ -1,0 +1,22 @@
+h1 {
+	font-family: Georgia, Times, serif; font-size: 250%; text-shadow: 2px 2px3px #666666; padding-botton: 10px; text-align: center; text-transform: uppercase; letter-spacing: 0.2em;}
+h2 {
+	text-align: center; font-size: 200%; letter-spacing: 0.1em; font-family: Arial, Verdana, sans-serif;line-height: 1.4em; text-transform: capitalize;}
+p {
+	 font-family: Arial, Verdana, sans-serif;line-height: 1.4em;}
+#intro {
+text-align: center;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px double #000;background-color: lavender;}
+#family {
+text-align: center;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px dotted #000;background-color: lemonchiffon;}
+#education {
+text-align: left;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px solid #000;background-color: lightcyan;}
+#hobbies {
+text-align: left;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px dotted #000;background-color: lavenderblush;}
+li.list1{list-style-image: inside circle;width: 1000px;}
+li.list2{
+width: 1000px;
+text-align: leftS}table {border-spacing: 0px;}th, td {padding: 5px 30px 5px 10px;border-spacing: 0px;font-size: 90%;margin: 200px;}th, td {text-align: left;background-color: lemonchiffon;border-top: 1px solid #f1f8fe;border-bottom: 1px solid #cbd2d8;border-right: 1px solid #cbd2d8;}
