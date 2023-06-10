@@ -1,0 +1,25 @@
+header {
+	font-family: Georgia, Times, serif; font-size: 100%; text-shadow: 2px 2px3px #666666; padding-botton: 10px; text-align: center; text-transform: uppercase; letter-spacing: 0.2em;
+	position: fixed; top: 0px; left: 0px; margin: 0px; width: 100%; background-color: lemonchiffon; }
+h2 {
+	text-align: center; font-size: 200%; letter-spacing: 0.1em; font-family: Arial, Verdana, sans-serif;line-height: 1.4em; text-transform: capitalize;}
+#intro {
+margin-top: 80px;
+text-align: center;
+max-width: 1250px;min-width: 720px;padding: 20px;border: 4px double #000;background-color: lavender;}
+img.align-center { display: bock; margin: 10px; auto;}
+img.medium {width: 400px; height: 400px;}
+#family {
+text-align: center;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px dotted #000;background-color: lemonchiffon;}
+#education {
+text-align: left;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px solid #000;background-color: lightcyan;}
+article {
+text-align: left;
+max-width: 1250px;min-width: 720px;margin: 10px auto 10px auto;padding: 20px;border: 4px dotted #000;background-color: lavenderblush;}
+li.list1{list-style-image: inside circle;width: 1000px;}
+li.list2{
+width: 1000px;
+text-align: leftS}table {border-spacing: 0px;}th, td {padding: 5px 30px 5px 10px;border-spacing: 0px;font-size: 90%;margin: 200px;}th, td {text-align: left;background-color: lemonchiffon;border-top: 1px solid #f1f8fe;border-bottom: 1px solid #cbd2d8;border-right: 1px solid #cbd2d8;}
+footer { font-family: Georgia, Times, serif; font size: 100%; text-align: center; letter-spacing: 0.2em;}
