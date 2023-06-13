@@ -58,7 +58,10 @@
 	letter-spacing: 2px;
 }
 
-article {	background-image: url("/Users/arya/Library/CloudStorage/OneDrive-IndianaUniversity/Summer 23/Computer Mediated Learning/Practice-scripts/Images/backgroundimage.jpeg");	background-repeat: no-repeat;	background-position: center top;
+article {
+	background-image: url("https://arkaru.github.io/backgroundimage.jpeg");
+	background-repeat: no-repeat;
+	background-position: center top;
 }
 
 .secondary_header_3 {
